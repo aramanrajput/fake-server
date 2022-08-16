@@ -1,0 +1,12 @@
+{
+    "task":[
+        {"title":"learn react","status":false},
+        {"title":"learn css","status":false},
+        {"title":"learn html","status":false}
+    ],
+    "todo":[
+        {"title":"learn react","status":false},
+        {"title":"learn css","status":false},
+        {"title":"learn html","status":false}
+    ]
+}
