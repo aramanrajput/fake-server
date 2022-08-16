@@ -5,7 +5,8 @@
         {"title":"learn html","status":false}
     ],
     "todo":[
-        {"title":"learn angular","status":false}
+        {"title":"learn angular","status":false},
+        {"title":"learn java","status":false}
       
     ]
 }
