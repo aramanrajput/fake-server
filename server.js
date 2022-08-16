@@ -1,10 +1,10 @@
-const data = require ("./database/db.json")
+const data = require("./database/db.json")
 
 const jsonserver = require("json-server")
 const server = jsonserver.create();
 const router =jsonserver.router(data)
 const middlewares=jsonserver.defaults()
-const port = 8080
+const port = process.env.PORT || 5000
 
 
 server.use(middlewares)
